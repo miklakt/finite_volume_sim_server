@@ -1,0 +1,71 @@
+#large files
+*.log
+*.in
+*.out
+#*.pkl
+*.pickle
+*.bak
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+*.synctex.gz
+*.blg
+*.fdb_latexmk
+*.xml
+*.bcf
+*.bbl
+
+## Intermediate documents:
+*.dvi
+*.xdv
+*-converted-to.*
+*.pdf
+
+*.ipynb
+
+#*.png
+#*.svg
+
+## virual env and cache
+venv/
+.venv/
+*_cache__/
+
+## media
+*.mp4
+*.out
+*.pdf
+*.h5
+*.ig
+*.pkl_old
+*.hdf5
+*.sh
+
+## other
+*.skp
+*.skb
+*.FCStd
+*.FCStd1
+*.ipynb
+*.docx
+*.doc
+
+
+numerical_simulation/simulation_data/*
+articles/*
